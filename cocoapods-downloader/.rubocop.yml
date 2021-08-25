@@ -1,0 +1,9 @@
+inherit_from:
+ - .rubocop_todo.yml
+ - .rubocop_cocoapods.yml
+
+
+Style/FileName:
+  Exclude:
+    - lib/cocoapods-downloader.rb
+    - spec/cocoapods-downloaders_spec.rb

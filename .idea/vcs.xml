@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CLAide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods/examples/ios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods/spec/cocoapods-integration-specs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods/spec/cocoapods-integration-specs/install_external_source/before/PodTest-hg-source" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods/spec/cocoapods-integration-specs/install_subspecs/before/PodTest-hg-source" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods/spec/cocoapods-integration-specs/outdated_multiple_specs/before/PodTest-hg-source" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods/spec/fixtures/integration/JSONKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods/spec/fixtures/integration/Reachability" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods/spec/fixtures/spec-repos/test_repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Core/spec/fixtures/spec-repos/artsy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Molinillo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Molinillo/spec/resolver_integration_specs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Xcodeproj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-downloader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-downloader/spec/fixtures/mercurial-repo" vcs="hg4idea" />
+  </component>
+</project>
